@@ -24,14 +24,14 @@ h1{
 p{
   /* Paragraphs is "black", 18px, with 15px of padding on the top only */
   margin-top:20px;
-  font-size: 18pt;
+  font-size: 18px;
   color: black;
 }
 
 a{
   /* Links should be 18px, dark red (#c12258), with an underline */
   outline: none;
-  font-size: 18pt;
+  font-size: 18px;
   color: #c12258; 
   text-decoration: underline;
 } 
